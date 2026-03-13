@@ -18,7 +18,7 @@ Below is a list of my poster presentations, with links to the poster files, asso
 *   **Work Presented:** "A Unified Deep Transfer Learning Model for Accurate IoT Localization in Diverse Environments."
 *   **Poster:** <a href="https://github.com/Abdullah2020/Posters/blob/master/UM6P_Doctorial_Day_Poster_2024.pdf" target="_blank">View Poster</a>
 *   **Publication:**
-    *   Conference proceeding: <a href="https://ieeexplore.ieee.org/abstract/document/10817295" target="_blank">Link to Published Paper</a> | Citation: **A. I. Ahmed**, Y. Etiabi, A. W. Azim and E. M. Amhoud, "A Unified Deep Transfer Learning Model for Accurate IoT Localization in Diverse Environments," 2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Valencia, Spain, 2024, pp. 1-6, doi: 10.1109/PIMRC59610.2024.10817295.
+    *   Conference proceeding: <a href="https://ieeexplore.ieee.org/abstract/document/10817295" target="_blank">Link to Published Paper</a> | Citation: **A. I. Ahmed**, Y. Etiabi, A. W. Azim, and E. M. Amhoud, "A Unified Deep Transfer Learning Model for Accurate IoT Localization in Diverse Environments," 2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Valencia, Spain, 2024, pp. 1-6, doi: 10.1109/PIMRC59610.2024.10817295.
 *   **Presentation Photos:** <a href="https://drive.google.com/file/d/1mc7wQKA03BzL1C-4P_zwcaVdEvbekIhH/view?usp=sharing" target="_blank">View Photos from the event</a>
 
 ---
@@ -28,7 +28,7 @@ Below is a list of my poster presentations, with links to the poster files, asso
 *   **Event:** UM6P Doctoral Day - 5th edition, Benguerir, Morocco
 *   **Work Presented:** "GLo-MAPPO: A Multi-Agent Proximal Policy Optimization for Energy Efficiency in UAV-Assisted LoRa Networks."
 *   **Poster:** <a href="https://github.com/Abdullah2020/Posters/blob/master/UM6P_Doctorial_Day_Poster_2025.pdf" target="_blank">View Poster</a>
-*   **Presentation Photos:** <a href="https://drive.google.com/file/d/1mc7wQKA03BzL1C-4P_zwcaVdEvbekIhH/view?usp=sharing" target="_blank">View Photos from the event</a>
+*   **Presentation Photos:** <a href="https://drive.google.com/file/d/1KD9n_dc9X80CDP6vgh90hSHLpupWuaLi/view?usp=sharing" target="_blank">View Photos from the event</a>
 
 ---
 
